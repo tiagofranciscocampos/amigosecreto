@@ -24,7 +24,7 @@ JavaScript: Manipulação da DOM e lógica do sorteio.
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/amigo-secreto.git
+git clone https://tiagofranciscocampos.github.io/amigosecreto/
 
 Abra o arquivo index.html em seu navegador.
 
